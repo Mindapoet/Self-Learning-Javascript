@@ -10,3 +10,6 @@ alert("Your beautiful");
 //print out
 console.log(message);
 console.log(studentCount);
+
+let a = 1
+console.log(1)
